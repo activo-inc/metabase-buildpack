@@ -1,5 +1,6 @@
 #!/bin/sh
 
+echo "test"
 set -eu
 
 METABASE_VERSION=`cat ./bin/version`
